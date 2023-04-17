@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.6.0-2-gd202c48">
+        <ModelTarget name="eb2nd_cad" targetId="58ffb4071b2b45209df96fdee35b7f53" version="13.0" toolVersion="v5.6.0-2-gd202c48" bbox="-0.075018 -0.075073 -0.075028 0.074982 0.075073 0.075046" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="eb2nd_cad" assemblyId="0104ca57b9494d2e983c1df02ffa910d">
+        <Part name="eb2nd_cad" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

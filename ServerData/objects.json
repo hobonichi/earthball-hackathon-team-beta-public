@@ -1,0 +1,522 @@
+[
+  {
+    "id": "Globe",
+    "overwrite": "true",
+    "model": "Sphere",
+    "material": "Unlit",
+    "texture": "http://localhost:8080/globe_texture.jpg",
+    "location": "0, 0, 0",
+    "direction": "0, 0, 0",
+    "scale": "1, 1, 1",
+    "actions": [
+      {
+        "action": "add",
+        "param": "globe_texture_alter.json"
+      },
+      {
+        "action": "delete",
+        "param": "Washington,WashingtonLabel,Fukui,FukuiLabel"
+      }
+    ]
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149521229321388.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149521229321388.JPG",
+    "location": "142.36386022212173, 43.77154656032682, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14951583678064.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14951583678064.JPG",
+    "location": "141.43169690000002, 43.0200912, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149509315814743.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149509315814743.jpg",
+    "location": "145.58279029999994, 43.3300759, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149503088731912.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149503088731912.JPG",
+    "location": "133.82115299311525, 35.4525663047937, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149499364232167.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149499364232167.JPG",
+    "location": "145.58279029999994, 43.3300759, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149499302632022.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149499302632022.JPG",
+    "location": "143.525390625, 41.86956082699456, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149499289322269.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149499289322269.JPG",
+    "location": "141.5006446838379, 43.013308479560955, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149494058618711.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149494058618711.JPG",
+    "location": "141.67131754209203, 45.4198010453044, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14946832938465.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14946832938465.JPG",
+    "location": "142.4062442779541, 43.807309653697054, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149458810126404.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149458810126404.JPG",
+    "location": "144.40255880355835, 42.97411868223264, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149457966224060.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149457966224060.JPG",
+    "location": "140.6362908479057, 41.88596557360755, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149457951323985.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149457951323985.JPG",
+    "location": "140.63741387763707, 41.881349812219916, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14945523267045.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14945523267045.JPG",
+    "location": "145.634765625, 41.57436130598913, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149454428914925.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149454428914925.jpg",
+    "location": "141.34064692126748, 43.07361735192919, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14945148267588.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14945148267588.JPG",
+    "location": "141.5632152557373, 42.97853015564473, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149449224124239.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149449224124239.JPG",
+    "location": "142.57746099999997, 44.9410633, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149448108521507.jpeg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149448108521507.jpeg",
+    "location": "133.83682250976562, 33.50332767620794, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14944273308383.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14944273308383.JPG",
+    "location": "-81.51575350000002, 27.6648274, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149442697518384.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149442697518384.jpg",
+    "location": "137.04792022705078, 34.86703348944464, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149442083116841.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149442083116841.JPG",
+    "location": "138.50324392318726, 36.52744999972251, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14943883228856.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14943883228856.JPG",
+    "location": "141.82314270000006, 39.7296042, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149430440410135.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149430440410135.JPG",
+    "location": "141.5243822336197, 43.094155455984705, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149424467527923.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149424467527923.JPG",
+    "location": "141.01747449999993, 39.7505746, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149419624416038.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149419624416038.jpg",
+    "location": "140.6194127, 41.8543607, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149419614426646.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149419614426646.jpg",
+    "location": "140.57037949999994, 42.10206609999999, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149419608326667.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149419608326667.jpg",
+    "location": "140.57037949999994, 42.10206609999999, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149419601926642.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149419601926642.jpg",
+    "location": "140.57037949999994, 42.10206609999999, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14941267919912_r.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14941267919912_r.JPG",
+    "location": "140.75683070000002, 41.7971839, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149407775419740_r.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149407775419740_r.JPG",
+    "location": "141.31953899999996, 43.055672, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149407256318442.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149407256318442.JPG",
+    "location": "143.8416337966919, 43.75230343989035, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149407163028971.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149407163028971.JPG",
+    "location": "138.25504302978516, 36.019808726411895, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149404035621373.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149404035621373.jpg",
+    "location": "141.96041994262487, 43.75332302449023, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149403975521212.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149403975521212.JPG",
+    "location": "142.35733708832413, 43.77368510745101, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149400208312124.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149400208312124.JPG",
+    "location": "141.50353610515594, 43.03814424968523, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14939856348204.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14939856348204.JPG",
+    "location": "142.85573959350586, 42.20064230859478, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/14939677823834_r.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/14939677823834_r.JPG",
+    "location": "143.20120832068355, 42.94300959990779, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149394174429857.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149394174429857.JPG",
+    "location": "141.31147384643555, 43.05612655505946, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149390569021226.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149390569021226.jpg",
+    "location": "142.42249849999996, 42.3859181, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149389656919042.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149389656919042.JPG",
+    "location": "141.98508749999996, 39.4378482, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149387323013416.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149387323013416.JPG",
+    "location": "131.33703220000007, 34.1548337, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149386966412542.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149386966412542.JPG",
+    "location": "141.13852640000005, 39.80206220000001, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149386945312468.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149386945312468.JPG",
+    "location": "141.2017283, 39.7447551, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379983528077.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379983528077.JPG",
+    "location": "140.46696629999997, 35.7381777, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379837027710.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379837027710.JPG",
+    "location": "141.30448488647463, 43.07453070942126, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379790216906.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379790216906.jpg",
+    "location": "141.34246408939362, 43.070089548171694, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379682027352.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379682027352.JPG",
+    "location": "140.14263153076172, 37.53736331242002, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379459726827_r.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379459726827_r.jpg",
+    "location": "140.64868927001953, 41.88350890139509, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149379450726829.jpg",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149379450726829.jpg",
+    "location": "140.62980368993533, 41.881336175152164, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149378926025533.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149378926025533.JPG",
+    "location": "138.74829053878778, 37.41635677936173, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  },
+  {
+    "id": "https://www.1101.com/live_image/org/149378345524160.JPG",
+    "model": "PlaneB",
+    "material": "UnlitTransparentNoCull",
+    "texture": "https://www.1101.com/live_image/org/149378345524160.JPG",
+    "location": "141.36460304260254, 43.02124697907873, 1",
+    "direction": "-90, 0, 0",
+    "scale": "0.3",
+    "actions": []
+  }
+]

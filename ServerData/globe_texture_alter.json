@@ -1,0 +1,28 @@
+[
+    {
+        "id": "Globe",
+        "overwrite": "true",
+        "model": "Sphere",
+        "material": "Unlit",
+        "texture": "globe_night.jpg",
+        "location": "0, 0, 0",
+        "direction": "0, 0, 0",
+        "scale": "1, 1, 1",
+        "actions": [
+            {"action": "add", "param": "objects.json"}
+        ]
+    },
+    {
+        "id": "London",
+        "model": "PlaneB",
+        "material": "UnlitTransparentNoCull",
+        "texture": "Brachiosaurus.png",
+        "location": "-6.267080, 53.343964, 1",
+        "direction": "-90, 0, 0",
+        "scale": "0.4",
+        "actions": [
+          {"action": "add", "param": "line.json"},
+          {"action": "open", "param": "view_sample.html"}
+        ]
+    }
+]

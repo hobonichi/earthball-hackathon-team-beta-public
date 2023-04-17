@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sample</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+body {
+  font-size: 4vw;
+  font-family: sans-serif;
+  line-height: 1.2;
+}
+
+.btn {
+    width: 100%;
+    font-size: 4vw;
+    font-family: sans-serif;
+}
+    </style>
+    <script>
+        function htmlDecode(input) {
+            const doc = new DOMParser().parseFromString(input, "text/html");
+            return doc.documentElement.textContent;
+        }
+        window.GlobeInitialCommand = [{ "action": "update", "param": htmlDecode("{{state}}") }];
+    </script>
+</head>
+<body>
+    session: {{session}}<br>
+    count: {{count}}<br>
+    <button class="btn" onclick='SendGlobeCommand([{"action": "add", "param": "home?mode={{next_mode}}"}, {"action": "close"}])'>switch to {{next_mode}}</button>
+    <button class="btn" onclick='SendGlobeCommand([{"action": "close"}])'>close</button>
+</body>
+</html>

@@ -1,0 +1,109 @@
+# プロジェクトのライセンス
+
+このプロジェクトに含まれるソフトウェアは、個別の明示がない限り、MIT License が適用されます。
+
+## MIT License
+
+MIT License
+
+Copyright (c) 2023 Hobonichi, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+# 個別のデータのライセンス
+
+以下のデータには個別にライセンスが設定されています。
+
+## サンプルプロジェクトのアプリアイコン
+
+サンプルプロジェクトのアプリアイコンは、
+株式会社ほぼ日の著作物です。
+
+### 対象
+
+- Hackathon/Assets/App/Textures/appicon_1024-1024.png
+
+## 「ほぼ日のアースボール」の認識モデル
+
+「ほぼ日のアースボール」の認識モデルデータは、
+株式会社ほぼ日の著作物であり、
+CC BY-NC 4.0 のライセンスで提供されます。
+商用利用は株式会社ほぼ日までご相談ください。
+
+### 対象
+
+- Hackathon/Assets/StreamingAssets/Vuforia/eb2nd_cad.dat
+- Hackathon/Assets/StreamingAssets/Vuforia/eb2nd_cad.xml
+
+### CC BY-NC 4.0
+
+https://creativecommons.org/licenses/by-nc/4.0/
+
+## 地球のテクスチャ画像
+
+地球のテクスチャ画像は、NASA Visible Earth に掲載されているものです。
+
+### 昼の地球のテクスチャ画像
+
+September, Blue Marble Next Generation w/ Topography and Bathymetry
+
+Reto Stöckli, NASA Earth Observatory
+Published September 1, 2004
+Data acquired September 1 - 30, 2004
+https://visibleearth.nasa.gov/images/73801/september-blue-marble-next-generation-w-topography-and-bathymetry
+
+
+#### 対象
+
+- ServerData/globe_texture.jpg
+- Hackathon/Assets/UnityNativeSample/Textures/globe_texture.jpg
+
+### 夜の地球のテクスチャ画像
+
+Earth at Night: Flat Maps
+
+Global Map Downloads - 2016 Color
+NASA Earth Observatory images by Joshua Stevens, using Suomi NPP VIIRS data from Miguel Román, NASA's Goddard Space Flight Center
+https://earthobservatory.nasa.gov/features/NightLights
+
+#### 対象
+
+- ServerData/globe_night.jpg
+
+## 恐竜の画像
+
+サンプルプロジェクトで利用している恐竜の画像は、すべて「かわいいフリー素材集 いらすとや」で公開されているものです。
+
+https://www.irasutoya.com/
+
+著作権は、作者のみふねたかしさんが所有します。
+
+### 対象
+
+- ServerData/Brachiosaurus.png
+- ServerData/dinosaur_ceratosaurus.png
+- ServerData/dinosaur_fukuivenator_paradoxus.png
+- ServerData/Iguanodon.png
+- ServerData/Pteranodon.png
+- ServerData/Stegosaurus.png
+- ServerData/Triceratops.png
+- ServerData/Velociraptor.png
+
+- Hackathon/Assets/UnityNativeSample/Textures/Brachiosaurus.png
+- Hackathon/Assets/UnityNativeSample/Textures/dinosaur_ceratosaurus.png
